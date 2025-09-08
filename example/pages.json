@@ -1,0 +1,20 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index.vue"
+		},
+		{
+			"path": "pages/about/about.vue"
+		}
+	],
+	"subPackages": [
+		{
+			"root": "packageA",
+			"pages": [
+				{
+					"path": "pages/subpage1.vue"
+				}
+			]
+		}
+	]
+}
